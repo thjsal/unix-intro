@@ -1,10 +1,14 @@
 % Introduction to Unix
-% Joonas Nättilä
-% Spring 2017
+% Tuomo Salmi
+% Spring 2019
 
 
 # Notes & exercises
 Lecture material and exercises are available from:
+
+\alert{https://github.com/thjsal/unix-intro}
+
+The original, almost identical, from Joonas Nättilä:
 
 \alert{https://github.com/natj/unix-intro}
 
@@ -187,7 +191,7 @@ command -options [input]
 
 ## BONUS:
 6. SSH to linux.utu.fi with your username (if not already inside)
-7. Check how many users there are online using irssi
+7. Check how many users there are online (using e.g. irssi)
     - use w to list users
     - use grep to filter for specific words (don't forget piping)
     - check grep manual for counting the hits

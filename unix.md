@@ -1,6 +1,6 @@
 % Introduction to Unix
 % Tuomo Salmi
-% Spring 2019
+% Spring 2020
 
 
 # Notes & exercises
@@ -14,8 +14,9 @@ The original, almost identical, from Joonas Nättilä:
 
 # Unix & Linux
 
-UNIX is an \alert{operating system} developed already in the 1960s, most notably by Finnish \alert{Linus Torvalds}. By operating system we mean a suite of programs that make the computer work. UNIX systems are characterized by being stable, multi-user and multi-tasking systems. 
+UNIX is a family of \alert{operating systems} developed already in the 1960s, for which Unix-like systems, like Linux, are based on (developed by Finnish \alert{Linus Torvalds}. By operating system we mean a suite of programs that make the computer work.
 
+UNIX systems are characterized by being stable, multi-user and multi-tasking systems. 
 Because of this, UNIX can be found everywhere from supercomputers to Apple laptops. For a researcher it is an invaluable tool as \alert{everything can be automated} simplifying your life a whole bunch!
 
 
